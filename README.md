@@ -22,7 +22,8 @@ The dataset used for this task was presented by [Pwc](https://www.pwc.com) and t
 
 ## Data Visualization (Dashboard)
 
-Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:Churn Dashboard
+Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
+Churn Dashboard
 [View Dashboard](https://github.com/BhavishaKulal/PWC-PowerBi-Task-2/blob/main/retention_customer.pbix)
 
 ![image](https://github.com/user-attachments/assets/4b4c1c98-e72d-4138-9612-5dbecc4dacd5)
