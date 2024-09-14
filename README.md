@@ -28,9 +28,9 @@ Churn Dashboard
 
 ![image](https://github.com/user-attachments/assets/4b4c1c98-e72d-4138-9612-5dbecc4dacd5)
 
-
-
 Customer Risk Analysis
+
+
 ![image](https://github.com/user-attachments/assets/5d7fb75c-3641-4694-95a0-dca1cda3ccd1)
 
 
