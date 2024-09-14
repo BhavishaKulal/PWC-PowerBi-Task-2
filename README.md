@@ -18,8 +18,17 @@ The telecom company faces difficulties in maintaining customer retention and eff
 The dataset used for this task was presented by [Pwc](https://www.pwc.com) and the call centre trends dataset:
 
 - **Dataset**: [Call Centre Trends](calldata.xlsx)
+
+### Data Visualization (Dashboard)
+
+### Data Visualization (Dashboard)
+
+Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop: [View Dashboard](https://github.com/BhavishaKulal/PWC-PowerBi-Task-2/blob/main/retention_customer.pbix)
+![image](https://github.com/user-attachments/assets/5d7fb75c-3641-4694-95a0-dca1cda3ccd1)
+
+
   
-#Insights
+# Insights
 **High Churn Rate**: The dashboard indicates a churn rate of 26.54%, suggesting that about one-fourth of the customers are leaving. This is a significant area of concern for the business.
 
 **Yearly Charges**: The yearly revenue from customers is $16.06 million, indicating that even a small increase in the churn rate can result in a substantial financial impact.
