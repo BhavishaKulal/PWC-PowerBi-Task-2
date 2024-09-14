@@ -10,10 +10,10 @@
 2. **Create Dashboard**: Develop a Power BI dashboard reflecting these KPIs, making it easy for the retention manager to visualize and interpret the data.
 3. **Provide Recommendations**: Offer actionable suggestions to enhance customer retention strategies based on the dashboard insights.
 
- # Problem Statement
+ ## Problem Statement
 The telecom company faces difficulties in maintaining customer retention and effectively managing customer churn. Current methods are reactionary, with insufficient tools for proactive identification of at-risk customers.
 
-# Data Source
+## Data Source
 
 The dataset used for this task was presented by [Pwc](https://www.pwc.com) and the call centre trends dataset:
 
@@ -33,7 +33,7 @@ Customer Risk Analysis
 
 
   
-# Insights
+## Insights
 **High Churn Rate**: The dashboard indicates a churn rate of 26.54%, suggesting that about one-fourth of the customers are leaving. This is a significant area of concern for the business.
 
 **Yearly Charges**: The yearly revenue from customers is $16.06 million, indicating that even a small increase in the churn rate can result in a substantial financial impact.
