@@ -24,6 +24,11 @@ The dataset used for this task was presented by [Pwc](https://www.pwc.com) and t
 ### Data Visualization (Dashboard)
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop: [View Dashboard](https://github.com/BhavishaKulal/PWC-PowerBi-Task-2/blob/main/retention_customer.pbix)
+Churn Dashboard
+![image](https://github.com/user-attachments/assets/4b4c1c98-e72d-4138-9612-5dbecc4dacd5)
+
+
+Customer Risk Analysis
 ![image](https://github.com/user-attachments/assets/5d7fb75c-3641-4694-95a0-dca1cda3ccd1)
 
 
@@ -33,29 +38,28 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 **Yearly Charges**: The yearly revenue from customers is $16.06 million, indicating that even a small increase in the churn rate can result in a substantial financial impact.
 
-**Customer Distribution by Internet Service**:
-The majority of customers use "Fiber Optic" services, accounting for 61.73% (3,100) of the total customer base.
-DSL and non-Internet service customers make up a smaller proportion, with DSL at around 21.67% (1,500 customers) and non-Internet customers at 34.77% (2,442 customers).
+**High Churn Risk**: With a 26.54% churn rate, 1,869 customers are at risk, impacting $16.06 million in annual revenue.
 
-**Contract Length and Churn**:
-A majority (47.46%) of the churned customers had month-to-month contracts, suggesting that short-term contracts correlate with higher churn.
-Customers with longer contracts (1-year or 2-year) have a notably lower churn rate, implying that commitment to longer-term contracts may help reduce churn.
+**Month-to-Month Contracts**: Customers on month-to-month contracts exhibit the highest churn, suggesting the need for promoting longer-term contracts.
 
-**Contract Types**:
-Most customers have a "Month-to-month" contract, followed by "One year" and "Two year" contracts. The higher churn rate in the "Month-to-month" contract type highlights an opportunity for the company to encourage customers to opt for longer contracts.
+**Early Churn**: Most churn occurs within the first year of subscription, indicating the need for enhanced early engagement strategies.
 
-**Payment Method Influence**:
-Electronic checks are the most common payment method among customers who have churned, indicating a potential link between payment method and customer retention.
-Other payment methods like bank transfers, credit cards, and mailed checks seem to have lower churn rates.
+**Payment Method Correlation**: Electronic check users are at higher risk of churn; shifting them to more stable payment methods could help retention.
 
-**Ticket Analysis**:
-The total number of tickets is 7043, with 2955 being "TechTickets" and 3622 as "AdminTickets". This shows that a sizable portion of customer interaction involves technical issues, which might be contributing to dissatisfaction and higher churn.
+**Senior Demographic**: Senior citizens (25% of customers) may require tailored engagement to reduce churn.
 
-**Months Subscribed**:
-There is a wide distribution in the number of months customers have been subscribed. Analyzing this data further could reveal how customer tenure affects churn risk.
+**Fiber Optic Service**: Higher churn rates are observed among "Fiber Optic" users, potentially due to higher monthly charges.
 
-**Churn by Internet Service**:
-Customers using "Fiber Optic" services exhibit a relatively high churn rate compared to those using "DSL". This suggests that focusing on service quality and pricing for "Fiber Optic" customers might help reduce churn.
-In summary, the dashboard indicates that short-term contracts, high monthly charges (especially for fiber optic users), and electronic check payments are associated with higher churn rates. Strategies to address these areas, such as promoting long-term contracts, improving service quality, and providing flexible payment options, could help in reducing customer churn.
+**Tech Support Issues**: High volumes of tech and admin tickets suggest that service quality improvements are critical.
+
+**Multiple Services**: 50% of customers use multiple lines, showing an opportunity to offer bundled services for improved retention.
+
+**Paperless Billing**: Most customers prefer paperless billing, indicating a readiness for digital engagement strategies.
+
+**First-Year Focus**: Enhancing the customer experience in the first year can significantly reduce churn rates.
+
+The analysis of both dashboards reveals that customer churn is a key challenge, with approximately 26.54% of customers at risk. Month-to-month contracts, higher monthly charges (especially for "Fiber Optic" services), and the use of electronic checks as a payment method are associated with a higher churn rate. The majority of customers who churn tend to do so within their first year of subscription.On the positive side, there is a large segment of customers already utilizing multiple services and paperless billing, indicating a potential pathway to improve retention through bundled services and digital engagement strategies.
+
+
 
 
