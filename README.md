@@ -13,17 +13,17 @@
  # Problem Statement
 The telecom company faces difficulties in maintaining customer retention and effectively managing customer churn. Current methods are reactionary, with insufficient tools for proactive identification of at-risk customers.
 
-#Data Source
+# Data Source
 
 The dataset used for this task was presented by [Pwc](https://www.pwc.com) and the call centre trends dataset:
 
 - **Dataset**: [Call Centre Trends](calldata.xlsx)
 
-### Data Visualization (Dashboard)
 
-### Data Visualization (Dashboard)
+## Data Visualization (Dashboard)
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop: [View Dashboard](https://github.com/BhavishaKulal/PWC-PowerBi-Task-2/blob/main/retention_customer.pbix)
+
 Churn Dashboard
 ![image](https://github.com/user-attachments/assets/4b4c1c98-e72d-4138-9612-5dbecc4dacd5)
 
@@ -60,6 +60,12 @@ Customer Risk Analysis
 
 The analysis of both dashboards reveals that customer churn is a key challenge, with approximately 26.54% of customers at risk. Month-to-month contracts, higher monthly charges (especially for "Fiber Optic" services), and the use of electronic checks as a payment method are associated with a higher churn rate. The majority of customers who churn tend to do so within their first year of subscription.On the positive side, there is a large segment of customers already utilizing multiple services and paperless billing, indicating a potential pathway to improve retention through bundled services and digital engagement strategies.
 
+To mitigate churn, the company can focus on:
 
+* Encouraging longer-term contracts.
+* Improving service quality, especially for "Fiber Optic" customers.
+* Enhancing the billing experience by promoting more stable payment methods.
+* Providing robust support in the critical first year of customer subscription.
+* Addressing technical issues promptly to improve overall customer satisfaction.
 
 
