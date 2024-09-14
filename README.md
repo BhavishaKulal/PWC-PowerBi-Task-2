@@ -18,4 +18,35 @@ The telecom company faces difficulties in maintaining customer retention and eff
 The dataset used for this task was presented by [Pwc](https://www.pwc.com) and the call centre trends dataset:
 
 - **Dataset**: [Call Centre Trends](calldata.xlsx)
+  
+#Insights
+**High Churn Rate**: The dashboard indicates a churn rate of 26.54%, suggesting that about one-fourth of the customers are leaving. This is a significant area of concern for the business.
+
+**Yearly Charges**: The yearly revenue from customers is $16.06 million, indicating that even a small increase in the churn rate can result in a substantial financial impact.
+
+**Customer Distribution by Internet Service**:
+The majority of customers use "Fiber Optic" services, accounting for 61.73% (3,100) of the total customer base.
+DSL and non-Internet service customers make up a smaller proportion, with DSL at around 21.67% (1,500 customers) and non-Internet customers at 34.77% (2,442 customers).
+
+**Contract Length and Churn**:
+A majority (47.46%) of the churned customers had month-to-month contracts, suggesting that short-term contracts correlate with higher churn.
+Customers with longer contracts (1-year or 2-year) have a notably lower churn rate, implying that commitment to longer-term contracts may help reduce churn.
+
+**Contract Types**:
+Most customers have a "Month-to-month" contract, followed by "One year" and "Two year" contracts. The higher churn rate in the "Month-to-month" contract type highlights an opportunity for the company to encourage customers to opt for longer contracts.
+
+**Payment Method Influence**:
+Electronic checks are the most common payment method among customers who have churned, indicating a potential link between payment method and customer retention.
+Other payment methods like bank transfers, credit cards, and mailed checks seem to have lower churn rates.
+
+**Ticket Analysis**:
+The total number of tickets is 7043, with 2955 being "TechTickets" and 3622 as "AdminTickets". This shows that a sizable portion of customer interaction involves technical issues, which might be contributing to dissatisfaction and higher churn.
+
+**Months Subscribed**:
+There is a wide distribution in the number of months customers have been subscribed. Analyzing this data further could reveal how customer tenure affects churn risk.
+
+**Churn by Internet Service**:
+Customers using "Fiber Optic" services exhibit a relatively high churn rate compared to those using "DSL". This suggests that focusing on service quality and pricing for "Fiber Optic" customers might help reduce churn.
+In summary, the dashboard indicates that short-term contracts, high monthly charges (especially for fiber optic users), and electronic check payments are associated with higher churn rates. Strategies to address these areas, such as promoting long-term contracts, improving service quality, and providing flexible payment options, could help in reducing customer churn.
+
 
